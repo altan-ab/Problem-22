@@ -33,6 +33,7 @@ export default function VideoPlayer() {
         src="https://archive.org/download/BigBuckBunny_124/Content/big_buck_bunny_720p_surround.mp4"
         poster="https://peach.blender.org/wp-content/uploads/title_anouncement.jpg?x11217"
         ref={ref}
+        controls
       />
       <div className="flex justify-between">
         <button
